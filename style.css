@@ -1,0 +1,42 @@
+h1{
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+}
+
+.top-bar{
+    background-color: pink;
+    float: left;
+    width: 33%;
+    height: 30px;
+    text-align: center;
+    font-weight: bolder;
+    border-color: black;
+    border: 1px solid;
+    font-family: 'Arvo', serif;
+}
+
+div a{
+    text-decoration: none;
+    color: black;
+    font-size:larger;
+}
+
+.img{
+    width: 33.33%;
+    float: left;
+    text-align: center;
+}
+
+.fiyat{
+    font-size: 22px;
+    font-weight: bolder;
+    color: blueviolet;
+    background-color: bisque;
+    width: 50%;
+    text-align: center;
+    margin: 10px 150px;
+}
+
+.contact{
+    margin: 20px 50px 50px 0;
+}
